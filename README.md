@@ -68,6 +68,8 @@ The model achieved a high accuracy score, typically above 85% depending on the d
 The confusion matrix visualization helped reveal the model’s strengths and weaknesses.  
 Top positive words like "great," "love," and "best," along with negative words like "bad," "worst," and "disappointed," provided insights into what drives customer sentiment.
 
+![Image](https://github.com/user-attachments/assets/564fa885-d1df-4e55-8c56-83d7180392eb)
+
 🚀 How to Run
 Simply, run the script:
 <pre><code>python sentiment_analysis.py</code></pre>
